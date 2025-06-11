@@ -14,8 +14,9 @@ Here is the overall design of my case, designed using Fusion:
 ----
 ## PCB
 Here is the PCB's schematic the PCB itself!
-![image](https://github.com/user-attachments/assets/50a95dc2-cd1d-4d71-92d1-67286e8497fd)
-![image](https://github.com/user-attachments/assets/72bf5b7e-7278-4fa4-adc1-be5839640cf8)
+![image](https://github.com/user-attachments/assets/8afdff6e-fdfc-4e60-a32e-6eb3b22236a1)
+![image](https://github.com/user-attachments/assets/f56a79d5-ba39-4c95-bc94-f0cfdd8fabb3)
+
 
 ----
 
